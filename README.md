@@ -34,26 +34,4 @@
 ____
 
 
-
-[![Saddam Hossain's github stats](https://github-readme-stats.vercel.app/api?username=saddamhr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/saddamhr)
-&nbsp;![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saddamhr&layout=compact&theme=radical)
-
-  <!-- <a href="https://www.linkedin.com/in/saddamhr/">
-    <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/saddamhr/">
-    <img align="left" alt="Saddam | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/saddam_rakib">
-    <img align="left" alt="Saddam | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/s.rakib04/">
-    <img align="left" alt="Saddam | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:saddambubt65@gmail.com">
-    <img align="left" alt="Saddam | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
-
 <br><br>
-
-**⭐️ From [saddamhr](https://github.com/saddamhr)**
